@@ -17,6 +17,7 @@ You can find a list of the officially supported games/applications [here](https:
 | [Drop Dead: Dual Strike Edition](https://www.oculus.com/experiences/quest/1935017546592600) | 4 | 3 | [Tweet](https://twitter.com/Seaglemaniac/status/1352082534084055041) | Audio works but is lagged. Game is confused and retains message to "walk back into play area" |
 | [Eleven Table Tennis](https://www.oculus.com/experiences/quest/1995434190525828) | ? | ? | [Tweet](https://twitter.com/OnvrNewMedia/status/1349682761251098625) | ? |
 | [Epic Roller Coasters](https://www.oculus.com/experiences/quest/2299465166734471) | 5 | 5 | ? | ? |
+| [FitXR](https://www.oculus.com/experiences/quest/2327205800645550/) | 5 | 5 | ? | ? |
 | [Gadgeteer](https://www.oculus.com/experiences/quest/2567395559960697) | ? | ? | ? | ? |
 | [Gun Club VR](https://www.oculus.com/experiences/quest/2285803881494677) | 5 | 5 | ? | ? |
 | [Gravity Sketch](https://www.oculus.com/experiences/quest/1587090851394426) | 5 | ? | [Tweet](https://twitter.com/fabio914/status/1354211501113008134) | Hint: set the background layer visibility to "filtered" and pick the color black, then you'll be able to record yourself in "AR" if use Gravity Sketch's "black room" preset. |
